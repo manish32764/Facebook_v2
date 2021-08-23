@@ -1,7 +1,7 @@
 import React from 'react';
-import NewsFeed from './../component/NewsFeed';
-import LeftSideMenu from './../component/LeftSideNavigationMenu';
-import SearchResultPage from './SearchResultPage';
+import NewsFeed from './component/NewsFeed';
+import LeftSideMenu from './../../component/LeftSideNavigationMenu';
+import SearchResultPage from './../searchResult/SearchResultPage';
 import { BrowserRouter as Router, Route, useRouteMatch} from "react-router-dom";
 
 const NewsFeedPage = () => {

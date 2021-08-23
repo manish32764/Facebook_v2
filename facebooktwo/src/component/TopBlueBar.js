@@ -3,10 +3,10 @@ import React from 'react';
 const TopBlueBar = () => {
   return (
     <header className="top-fixedBlueContainer">
-        <div class="top-left">
-            <div src="icons/email-svgrepo-com.svg" className="top-center-svg-icon">Facebook</div>
-            <input type="text" placeholder="Search Here" class="search"/>
-        </div>
+      <div class="top-left">
+        <div src="icons/email-svgrepo-com.svg" className="top-center-svg-icon">Facebook</div>
+        <input type="text" placeholder="Search Here" class="search" />
+      </div>
 
       <div className="top-middle">
         <div src="icons/white_house-outline-svgrepo-com.svg" className="top-center-svg-icon">Home  </div>

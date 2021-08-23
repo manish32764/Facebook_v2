@@ -1,6 +1,6 @@
 import React from 'react';
 import NewPostCreate from './NewPostCreate';
-import Post from './Post';
+import Post from './../../../component/Post';
 
 const NewsFeed = () => {
 

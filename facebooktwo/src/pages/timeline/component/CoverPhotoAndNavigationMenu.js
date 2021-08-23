@@ -1,6 +1,6 @@
 import React from 'react';
 
-const MiddleBar = () => {
+const CoverPhotoAndNavigationMenu = () => {
     return (
         <div class="main-center-upper">
             <div class="huge-blue-banner-poster"></div>
@@ -21,4 +21,4 @@ const MiddleBar = () => {
     );
 };
 
-export default MiddleBar;
+export default CoverPhotoAndNavigationMenu;

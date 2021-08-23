@@ -1,6 +1,6 @@
 import React from 'react';
 
-const NineByNinePhotosOrFriend = () => {
+const NineByNineFriendGrid = () => {
     return (
         <div class="photos">
             <div class="row">
@@ -22,4 +22,4 @@ const NineByNinePhotosOrFriend = () => {
     );
 };
 
-export default NineByNinePhotosOrFriend;
+export default NineByNineFriendGrid;
