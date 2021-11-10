@@ -2,7 +2,7 @@ import React from 'react';
 
 const NineByNineFriendGrid = () => {
     return (
-        <div class="photos">
+        <div class="friend-photos">
             <div class="row">
                 <span class="photos-text">Friends</span>
                 <span class="see-all-photos-text">See All Friends</span>

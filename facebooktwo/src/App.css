@@ -615,6 +615,15 @@ body {
 	border-radius: 11px
 }
 
+.friend-photos {
+	background-color: #fff;
+	margin-bottom: 15px;
+	border-radius: 11px;
+
+	position: sticky;
+  	top: 47px;
+}
+
 .row{
 	display: flex;
 	justify-content: space-between;
